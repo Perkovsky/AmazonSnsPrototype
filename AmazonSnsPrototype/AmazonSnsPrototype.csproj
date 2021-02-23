@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>921c260a-2922-419c-aec3-3737228d0114</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!--<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.0" />-->
+		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.4" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="3.1.4" />
+  </ItemGroup>
+
+</Project>

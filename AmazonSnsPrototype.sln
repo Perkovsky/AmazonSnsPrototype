@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonSnsPrototype", "AmazonSnsPrototype\AmazonSnsPrototype.csproj", "{ADFF2BF7-4E19-4416-8E8E-943639067B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFF2BF7-4E19-4416-8E8E-943639067B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFF2BF7-4E19-4416-8E8E-943639067B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFF2BF7-4E19-4416-8E8E-943639067B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFF2BF7-4E19-4416-8E8E-943639067B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51881E03-8A8E-4D8F-B164-B26336E2322B}
+	EndGlobalSection
+EndGlobal
